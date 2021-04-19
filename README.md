@@ -2,11 +2,11 @@
 
 Repository for resources for python course being taught at IIIT Naya Raipur, Spring 2021.
 
-Instructor
+## Instructors
 - Dr. Srinivas Naik
 - Dr. Santosh Kumar
 
-TA's
+## Teaching Assistants
 - Alluri L S V Siddhartha Varma
 - Ankith Sharma
 - Aneesh Bhattacharya

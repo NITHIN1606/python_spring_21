@@ -13,4 +13,4 @@ Repository for resources for python course being taught at IIIT Naya Raipur, Spr
 
 ## Timeline
 
-- Class 0 (27-04-2021) : Introduction and Installation
+- Class 0 (27-04-2021) : Installation & Hello, World!

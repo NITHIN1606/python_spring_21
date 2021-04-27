@@ -10,3 +10,7 @@ Repository for resources for python course being taught at IIIT Naya Raipur, Spr
 - Alluri L S V Siddhartha Varma
 - Ankith Sharma
 - Aneesh Bhattacharya
+
+## Timeline
+
+- Class 0 (27-04-2021) : Introduction and Installation
